@@ -223,3 +223,4 @@ function ClearCookies() {
 
 </body>
 </html>
+<!-- this is the readme file from wpbase, an authomatic file -->
